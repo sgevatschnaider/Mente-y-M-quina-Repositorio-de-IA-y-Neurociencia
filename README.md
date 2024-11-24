@@ -1,6 +1,6 @@
-# AI and Neuroscience: Exploring the Mind and the Machine
-
-This repository is available in:
+- # Mind and Machine | Mente y Máquina
+Repository available in:
 - [Español (Spanish)](es/README.md)
 - [English](en/README.md)
+
 
