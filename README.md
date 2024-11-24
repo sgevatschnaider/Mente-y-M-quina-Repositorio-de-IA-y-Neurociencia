@@ -3,13 +3,16 @@
 Este repositorio se encuentra en la intersección entre **Inteligencia Artificial (IA)** y **Neurociencia**, dos campos que comparten enfoques y sinergias fundamentales. Aquí exploramos teorías, simulaciones y aplicaciones prácticas para comprender cómo los principios neurocientíficos inspiran algoritmos avanzados y cómo la IA puede aportar nuevas perspectivas al estudio del cerebro humano.
 
 ---
-## Teoría de la Mente
+<h2>Teoría de la Mente</h2>
 
+<p>
 La teoría de la mente se refiere a la capacidad de entender que otros tienen creencias, deseos e intenciones diferentes a las propias. Este concepto es clave en neurociencia y se aplica en la simulación de procesos cognitivos en inteligencia artificial.
+</p>
 
-La siguiente imagen ilustra un escenario clásico de la teoría de la mente:
+<p>La siguiente imagen ilustra un escenario clásico de la teoría de la mente:</p>
 
-![Teoría de la Mente](https://github.com/sgevatschnaider/Mente-y-M-quina-Repositorio-de-IA-y-Neurociencia/raw/main/TPM.png)
+<img src="https://github.com/sgevatschnaider/Mente-y-M-quina-Repositorio-de-IA-y-Neurociencia/raw/main/TPM.png" alt="Teoría de la Mente" width="600">
+
 
 ## Tabla de Contenidos
 
